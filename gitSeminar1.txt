@@ -1,0 +1,6 @@
+git init
+git clone 링크 => 다운로드
+git add 파일 => 
+git status
+git commit -m "메시지"
+git push => git에 업로드
